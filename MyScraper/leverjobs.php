@@ -19,7 +19,7 @@ curl_setopt_array($curl, [
 	CURLOPT_CUSTOMREQUEST => "GET",
 	CURLOPT_HTTPHEADER => [
 		"X-RapidAPI-Host: company-jobs.p.rapidapi.com",
-		"X-RapidAPI-Key: b85e43b376msh24baf6ffbcfeeb3p14438ajsn3a55fc11c03d"
+		"X-RapidAPI-Key: your rapidapi key"
 	],
 ]);
 
